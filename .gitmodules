@@ -1,0 +1,3 @@
+[submodule "im2txt"]
+	path = im2txt
+	url = https://github.com/sorelyss/image2text.git
